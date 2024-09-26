@@ -1,1 +1,0 @@
-# random-study-notes
