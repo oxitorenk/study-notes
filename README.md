@@ -1,5 +1,3 @@
-# Introduction
-
 # 📚 Study Notes
 
 Welcome to my **Study Notes**! This is a collection of my personal notes on various topics, ranging from programming, mathematics, music, and science to personal development and random curiosities. These notes are written in Markdown and rendered using **GitBook** for easier navigation and readability.
