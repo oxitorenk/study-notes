@@ -10,7 +10,7 @@ This repo serves as a central place where I organize and document my learning jo
 
 All notes are structured and categorized into topics, which you can browse either by folder structure or through **GitBook** for a more user-friendly experience. You can access the rendered version on GitBook by visiting the following link:
 
-🔗 **[View the GitBook version here](study-notes.oxitorenk.com)**
+🔗 **[View the GitBook version here](https://study-notes.oxitorenk.com)**
 
 ## 🔄 Contributions
 
