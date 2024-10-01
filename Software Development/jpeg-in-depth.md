@@ -1,3 +1,5 @@
+# How are Images Compressed? JPEG In Depth
+
 {% embed url="https://www.youtube.com/watch?v=Kv1Hiv3ox8I" %}
 
 ## What is JPEG?
