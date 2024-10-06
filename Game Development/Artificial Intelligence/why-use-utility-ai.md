@@ -1,6 +1,6 @@
 # Why use Utility AI instead of Behavior Trees and Finite State Machines?
 
-[Original Read](https://blog.carloslab-ai.com/Articles/BehaviorAI/WhyUseUtilityAI/A 
+[Original Read](https://blog.carloslab-ai.com/Articles/BehaviorAI/WhyUseUtilityAI)
 
 When developing AI systems for games, selecting the right decision-making architecture is crucial. This study explores the advantages of Utility AI compared to Behavior Trees and Finite State Machines (FSMs). We will define each approach, highlight their key features, advantages, and use cases, and ultimately help you decide which one to use for your AI needs.
 
