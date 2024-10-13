@@ -1,4 +1,4 @@
-### **Server Network Recording (SNR) in League of Legends: A Technical Overview**
+# **Server Network Recording (SNR) in League of Legends: A Technical Overview**
 
 ### [Original Text - Determinism in League of Legends: Implementation](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 
